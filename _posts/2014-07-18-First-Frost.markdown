@@ -8,4 +8,6 @@ project-title: First Frost
 engine: Unreal
 Build Link: https://firstfrostgame.itch.io/first-frost
 description: First Frost is a third person perspective adventure game. The player takes control of winter spirit who's job is to bring winter back to a restless forest. My major contribution to this project was the bear enemy AI. I designed and implemented its state machine, used Unreal's navigation and AI perception tools to allow it to track the player, and implemented the bears animations. This was all done using both blueprinting and c++ code.
+
+https://firstfrostgame.itch.io/first-frost
 ---

@@ -9,4 +9,6 @@ project-title: Assualt On Temporia
 engine: Unity
 Build Link: https://github.com/chuwilliamson/Unity-AssaultOnTemporia/releases/tag/2.0
 description: Assault On Temporia is an action game that puts two players against each other in an arena. The goal is for one of the players to get to the other players side while carrying a cherry. The player that gets to the farthest end of their opponents side is the winner. For this game I programmed the enemy AI, the player's movement, the player's combat abilities, the arena transitions, and the UI. I also implemented player and enemy animations.
+
+https://github.com/chuwilliamson/Unity-AssaultOnTemporia/releases/tag/2.0
 ---
