@@ -1,10 +1,10 @@
 ﻿# Site settings
-title: Computer Programmer
+title: Lodis Perkins III
 email: lodisperkins44@gmail.com
 url: https://github.com/lodisperkins
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Game Developer - Instructor"
+description: "Hi I'm Lodis! I'm a passionate video game programmer/instructor with experience in multiple programming languages, methods of version control, and game engines."
+keywords: "lodis, computer, programming, computer programmer, unity, unreal, AI, artificial intelligence, c++, c, c#, python, grid, game, frost, first, instructor, teacher, pygame, perkins"
+skills: "Computer Programmer - Game Developer - Instructor"
 meta_author: Perkins Lodis
 
 # Google webmaster tools
@@ -35,7 +35,6 @@ footer:
   copyright: Dr. Henry Jekyll
   location: Location
   social: Around the Web
-  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
