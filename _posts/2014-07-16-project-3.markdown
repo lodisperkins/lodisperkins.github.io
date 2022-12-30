@@ -4,9 +4,9 @@ modal-id: 3
 date: 2014-07-16
 img: AOT.gif
 alt: image-alt
-project-date: February 2019 - July 2019
-title: Assualt On Temporia
+project-date: December 2020 - Current
+title: Gridlock Gladiators
 engine: Unity
-BuildLink: https://github.com/chuwilliamson/Unity-AssaultOnTemporia/releases/tag/2.0
-description: Assault On Temporia is an action game that puts two players against each other in an arena. The goal is for one of the players to get to the other players side while carrying a cherry. The player that gets to the farthest end of their opponents side is the winner. For this game I programmed the enemy AI, the player's movement, the player's combat abilities, the arena transitions, and the UI. I also implemented player and enemy animations.
+BuildLink: [https://github.com/chuwilliamson/Unity-AssaultOnTemporia/releases/tag/2.0](https://github.com/lodisperkins/GridFighter/releases)
+description: As the creator of the project, I generated all of the content with the exception of some art assets. A notable programming feature is the AI(right) that uses a modified version of monte carlo tree search to learn how to play the game.
 ---
