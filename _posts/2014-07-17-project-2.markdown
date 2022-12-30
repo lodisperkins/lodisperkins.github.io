@@ -4,7 +4,7 @@ modal-id: 2
 date: 2014-07-17
 img: GridGameAI.gif
 alt: image-alt
-project-date: July 2020 - Current
+project-date: July 2019 - December 2020
 title: Grid Game(working title)
 engine: Unity
 BuildLink: https://github.com/lodisperkins/Unity-Grid-Game/releases
