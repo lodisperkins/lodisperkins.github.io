@@ -7,6 +7,6 @@ alt: image-alt
 project-date: December 2020 - Current
 title: Gridlock Gladiators
 engine: Unity
-BuildLink: [https://github.com/chuwilliamson/Unity-AssaultOnTemporia/releases/tag/2.0](https://github.com/lodisperkins/GridFighter/releases)
+BuildLink: https://github.com/lodisperkins/GridFighter/releases
 description: As the creator of the project, I generated all of the content with the exception of some art assets. A notable programming feature is the AI(right) that uses a modified version of monte carlo tree search to learn how to play the game.
 ---
