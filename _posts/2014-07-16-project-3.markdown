@@ -2,11 +2,11 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: AIDemo_compressed_003.gif
+img: ZyraCombo.gif
 alt: image-alt
 project-date: December 2020 - Current
 title: Gridlock Gladiators
 engine: Unity
-BuildLink: https://github.com/lodisperkins/GridFighter/releases
-description: As the creator of the project, I generated all of the content with the exception of some art assets. A notable programming feature is the AI(right) that uses a modified version of monte carlo tree search to learn how to play the game.
+Steam Page: https://store.steampowered.com/app/2564020/Gridlock_Gladiators/
+description: As a solo developer, I generated all of the content with the exception of some art assets. In order to test some game mechanics, I programmed an AI that uses a modified version of monte carlo tree search to learn how to play the game. I also created tools using Unity editor scripting to increase efficiency in animation, character creation, and UI development.
 ---
