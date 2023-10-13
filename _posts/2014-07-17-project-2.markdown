@@ -5,7 +5,7 @@ date: 2014-07-17
 img: GridGameAI.gif
 alt: image-alt
 project-date: July 2019 - December 2020
-title: Grid Game(working title)
+title: Grid Game
 engine: Unity
 BuildLink: https://github.com/lodisperkins/Unity-Grid-Game/releases
 description: Grid Game is a player versus player tower defense. Players battle on a 4 by 10 grid in an attempt to either destroy either their opponent, or the object behind their opponent. A notable addition I gave to this is an AI that strategizes and moves as a player does. It finds weak points, targets support systems, and attacks opponenings while trying to prevent its own defense from weakening. The game is also made using some helper tools I wrote using Unity's editor scripting including a custom event system and input manager. This is a solo project.
