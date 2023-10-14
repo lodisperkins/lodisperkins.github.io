@@ -3,7 +3,7 @@ layout: default
 modal-id: 3
 date: 2014-07-16
 img: ZyraCombo.gif
-alt: ZyraCombo.gif
+alt: AIDemo_compressed_003.gif
 project-date: December 2020 - Current
 title: Gridlock Gladiators
 engine: Unity
