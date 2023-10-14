@@ -2,7 +2,7 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: AIDemo_compressed_003.gif
+img: GridGameAI.gif
 alt: image-alt
 project-date: December 2020 - Current
 title: Gridlock Gladiators
