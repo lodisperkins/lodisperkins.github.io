@@ -206,6 +206,7 @@ section.success {
     position: relative;
     margin: 0 auto;
     max-width: 400px;
+    border-radius: 30px;
 }
 
 #portfolio .portfolio-item .portfolio-link .caption {
@@ -264,12 +265,14 @@ section.success {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 49%;
       max-width: 49%;
+      border-radius: 30px;
     }
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {
       flex: 1 0 32%;
       max-width: 32%;
+      border-radius: 30px;
     }
   }
   /* A large grid might need four columns on widescreen layouts */
